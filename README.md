@@ -6,12 +6,12 @@
   <p>A fully open-source BLE and Bluetooth jammer</p>
 
   <!-- Badges -->
-  <a href="https://github.com/CrissCCL/RF-Clown">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/RF-Clown?style=social" alt="stars">
-  </a>
-  <a href="https://github.com/CrissCCL/RF-Clown">
-    <img src="https://img.shields.io/github/forks/CrissCCL/RF-Clown?style=social" alt="forks">
-  </a>
+<a href="https://github.com/CrissCCL/RF-Clown">
+  <img src="https://img.shields.io/github/stars/CrissCCL/RF-Clown?style=social" alt="stars">
+</a>
+<a href="https://github.com/CrissCCL/RF-Clown">
+  <img src="https://img.shields.io/github/forks/CrissCCL/RF-Clown?style=social" alt="forks">
+</a>
 
 </div>
 
