@@ -27,11 +27,22 @@ It is intended **strictly for learning, research, and controlled testing environ
   <img src="https://github.com/user-attachments/assets/7be8e9b4-07ea-4f39-9cd4-d8588a95a920" alt="screenshot" width="auto" />
 </div>
 
+
+
+## :eyes: RF-Clown Versions:
+
+<div align="center"> 
+  <img src="https://github.com/user-attachments/assets/64df30e1-52b5-4cfb-91c8-b530d30b85e5" alt="RF-Clown v1" width="auto" />
+</div>
+
+
 ---
 
 ## 🔧 Fork modifications
 
-This repository is a fork of the original **RF-Clown** project developed by **cifertech**.
+This repository is a fork of the original **RF-Clown v1** project developed by **cifertech**.
+
+> ⚠️ Note: All modifications in this fork are based **exclusively on RF-Clown v1** and are not compatible with RF-Clown v2.
 
 ### Changes introduced in this fork
 - Complete PCB redesign with components relocated to new positions  
