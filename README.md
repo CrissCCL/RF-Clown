@@ -17,8 +17,6 @@
 
 ---
 
-
-
 ## 📖 Documentation
 
 Full original documentation and background can be found here:  
@@ -82,8 +80,22 @@ https://github.com/cifertech/RF-Clown
 This fork introduces a **fully redesigned PCB** integrating battery support and updated LED signaling.
 
 <div align="center">
-  <img src="docs/pcb_redesign_overview.png" alt="PCB redesign overview" width="600"/>
-  <p><i>Redesigned PCB layout with battery mounting and updated RGB LED placement</i></p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bce4d634-b910-46ed-b72f-ca8a44866b1e" alt="PCB top view" width="400"/>
+      <p><i>Top layer</i></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bf6eca23-521a-4707-8545-668c2ddd23e8" alt="PCB bottom view" width="400"/>
+      <p><i>Bottom layer</i></p>
+    </td>
+  </tr>
+</table>
+
+<p><i>Redesigned PCB layout with battery mounting and updated RGB LED placement</i></p>
+
 </div>
 
 ### Mechanical & design notes
