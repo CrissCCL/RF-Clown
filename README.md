@@ -29,12 +29,13 @@ It is intended **strictly for learning, research, and controlled testing environ
 
 
 
-## :eyes: RF-Clown Versions:
+## :eyes: RF-Clown Version 1:
 
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/64df30e1-52b5-4cfb-91c8-b530d30b85e5" alt="RF-Clown v1" width="500" />
+  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">RF-Clown v1</p>
 </div>
- <p style="font-style: italic; font-size: 14px; margin-top: 5px;">RF-Clown v1</p>
+ 
 
 ---
 
