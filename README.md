@@ -72,7 +72,7 @@ This repository hosts a **hardware and firmware variant** of the original RF-Clo
 
 ## 🎯 Features
 
-- **Dual NRF24 modules** for BLE/Bluetooth interference experiments  
+- **Dual NRF24 modules** (GT24 Mini modules) for BLE/Bluetooth interference experiments  
 - **External antennas** via IPEX connectors  
 - **RGB LED feedback**: Discrete RGB LED for mode indication *(firmware adapted in this fork)*  
 - **Portable design**: Battery-powered operation using Li-ion/Li-Po cell and TP4056 charger  
