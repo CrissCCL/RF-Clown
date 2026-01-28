@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/62047147/195847997-97553030-3b79-4643-9f2c-1f04bba6b989.png" alt="logo" width="100" height="auto" />
 
   <h1>RF-Clown</h1>
-  <p>A fully open-source BLE and Bluetooth jammer</p>
+  <p>An open-source BLE and Bluetooth RF experimentation platform</p>
 
 </div>
 
@@ -27,9 +27,7 @@ It is intended **strictly for learning, research, and controlled testing environ
   <img src="https://github.com/user-attachments/assets/7be8e9b4-07ea-4f39-9cd4-d8588a95a920" alt="screenshot" width="500" />
 </div>
 
-
-
-## :eyes: RF-Clown Version 1:
+## RF-Clown Version 1:
 
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/64df30e1-52b5-4cfb-91c8-b530d30b85e5" alt="RF-Clown v1" width="500" />
@@ -47,10 +45,12 @@ This repository is a fork of the original **RF-Clown v1** project developed by *
 
 ### Changes introduced in this fork
 - Complete PCB redesign with components relocated to new positions  
+- Hardware adapted for **NRF24L01+ GT24 Mini modules**  
 - Simplified NeoPixel LED replaced by a discrete RGB LED  
 - Firmware modifications to support RGB LED control  
 - Added dedicated PCB space and mechanical mounting for a lithium battery  
 - Improved layout for portable and standalone operation  
+
 
 Core RF concepts and operating principles remain aligned with the original project.
 
@@ -76,7 +76,7 @@ This repository hosts a **hardware and firmware variant** of the original RF-Clo
 
 ## 🎯 Features
 
-- **Dual NRF24 modules** (GT24 Mini modules) for BLE/Bluetooth interference experiments  
+- **Dual NRF24L01+ (GT24 Mini modules)** for BLE/Bluetooth interference experiments  
 - **External antennas** via IPEX connectors  
 - **RGB LED feedback**: Discrete RGB LED for mode indication *(firmware adapted in this fork)*  
 - **Portable design**: Battery-powered operation using Li-ion/Li-Po cell and TP4056 charger  
@@ -160,5 +160,5 @@ See `LICENSE.txt` for details.
 Original project by **cifertech**  
 https://github.com/cifertech/RF-Clown  
 
-Forked hardware & firmware variant maintained by **Cristian Castro (CrissCCL)**
+Forked hardware & firmware variant maintained by **CrissCCL**
 
