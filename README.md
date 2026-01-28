@@ -1,3 +1,24 @@
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/62047147/195847997-97553030-3b79-4643-9f2c-1f04bba6b989.png" alt="logo" width="100" height="auto" />
+  
+  <h1>RF-Clown</h1>
+  <p>A fully open-source BLE and Bluetooth jammer</p>
+
+  <!-- Badges -->
+  <a href="https://github.com/YOUR_USERNAME/RF-Clown">
+    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/RF-Clown?style=social" alt="stars">
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/RF-Clown">
+    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/RF-Clown?style=social" alt="forks">
+  </a>
+
+</div>
+
+---
+
+
+
 ## 📖 Documentation
 
 Full original documentation and background can be found here:  
