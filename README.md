@@ -24,7 +24,7 @@ The project emphasizes transparency, education, and experimentation over closed 
 It is intended **strictly for learning, research, and controlled testing environments**.
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/7be8e9b4-07ea-4f39-9cd4-d8588a95a920" alt="screenshot" width="auto" />
+  <img src="https://github.com/user-attachments/assets/7be8e9b4-07ea-4f39-9cd4-d8588a95a920" alt="screenshot" width="500" />
 </div>
 
 
@@ -32,9 +32,9 @@ It is intended **strictly for learning, research, and controlled testing environ
 ## :eyes: RF-Clown Versions:
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/64df30e1-52b5-4cfb-91c8-b530d30b85e5" alt="RF-Clown v1" width="auto" />
+  <img src="https://github.com/user-attachments/assets/64df30e1-52b5-4cfb-91c8-b530d30b85e5" alt="RF-Clown v1" width="500" />
 </div>
-
+ <p style="font-style: italic; font-size: 14px; margin-top: 5px;">RF-Clown v1</p>
 
 ---
 
