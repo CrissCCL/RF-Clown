@@ -54,18 +54,33 @@ Core RF concepts and operating principles remain aligned with the original proje
 https://github.com/cifertech/RF-Clown
 
 ---
+## 📂 Repository contents
+
+This repository hosts a **hardware and firmware variant** of the original RF-Clown project.
+
+### 🧱 Hardware
+- Complete PCB redesign
+- Battery integration and mechanical support
+- Discrete RGB LED (NeoPixel removed)
+- Gerber files for manufacturing
+
+### 💻 Firmware
+- Modified ESP32 firmware matching the redesigned hardware
+- RGB LED signaling logic
+- Not drop-in compatible with the original RF-Clown firmware
+
 
 ## 🎯 Features
 
-- **Triple NRF24** (GT24 Mini modules) for increased RF coverage  
-- **External antennas**: IPEX connectors + high-gain antennas  
-- **OLED display** + **3 tactile switches** for user navigation  
+- **Dual NRF24 modules** for BLE/Bluetooth interference experiments  
+- **External antennas** via IPEX connectors  
 - **RGB LED feedback**: Discrete RGB LED for mode indication *(firmware adapted in this fork)*  
 - **Portable design**: Battery-powered operation using Li-ion/Li-Po cell and TP4056 charger  
 - **Custom PCB**: CP2102 USB-UART, LF33 voltage regulator, and supporting circuitry  
-- **Open-source firmware and hardware**  
+- **Open-source hardware and firmware**  
 
 > ⚠️ **Note:** Hardware and firmware in this repository are **not compatible** with the original RF-Clown NeoPixel-based PCB.
+
 
 ---
 
