@@ -6,12 +6,12 @@
   <p>A fully open-source BLE and Bluetooth jammer</p>
 
   <!-- Badges -->
-<a href="https://github.com/CrissCCL/RF-Clown">
-  <img src="https://img.shields.io/github/stars/CrissCCL/RF-Clown?style=social" alt="stars">
-</a>
-<a href="https://github.com/CrissCCL/RF-Clown">
-  <img src="https://img.shields.io/github/forks/CrissCCL/RF-Clown?style=social" alt="forks">
-</a>
+  <a href="https://github.com/CrissCCL/RF-Clown">
+    <img src="https://img.shields.io/github/stars/CrissCCL/RF-Clown?style=social" alt="stars">
+  </a>
+  <a href="https://github.com/CrissCCL/RF-Clown">
+    <img src="https://img.shields.io/github/forks/CrissCCL/RF-Clown?style=social" alt="forks">
+  </a>
 
 </div>
 
@@ -21,8 +21,6 @@
 
 Full original documentation and background can be found here:  
 👉 https://cifertech.net/rf-clown-your-portable-ble-bluetooth-jamming-tool/
-
-<div>&nbsp;</div>
 
 ---
 
@@ -36,8 +34,6 @@ It is intended **strictly for learning, research, and controlled testing environ
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/7be8e9b4-07ea-4f39-9cd4-d8588a95a920" alt="screenshot" width="auto" />
 </div>
-
-<div>&nbsp;</div>
 
 ---
 
@@ -57,8 +53,6 @@ Core RF concepts and operating principles remain aligned with the original proje
 🔗 Original repository:  
 https://github.com/cifertech/RF-Clown
 
-<div>&nbsp;</div>
-
 ---
 
 ## 🎯 Features
@@ -71,7 +65,7 @@ https://github.com/cifertech/RF-Clown
 - **Custom PCB**: CP2102 USB-UART, LF33 voltage regulator, and supporting circuitry  
 - **Open-source firmware and hardware**  
 
-<div>&nbsp;</div>
+> ⚠️ **Note:** Hardware and firmware in this repository are **not compatible** with the original RF-Clown NeoPixel-based PCB.
 
 ---
 
@@ -104,8 +98,6 @@ This fork introduces a **fully redesigned PCB** integrating battery support and 
 - RGB LED placement optimized for visibility and mechanical clearance  
 - RF-sensitive areas and antenna routing preserved during redesign  
 
-<div>&nbsp;</div>
-
 ---
 
 ## 🔗 Firmware upload (ESP32)
@@ -121,8 +113,6 @@ If provided, `.bin` files can be flashed using Espressif Flash Download Tool:
 - Start address: `0x1000`  
 - Baud rate: `115200`
 
-<div>&nbsp;</div>
-
 ---
 
 ## ⚠️ DISCLAIMER — IMPORTANT
@@ -137,16 +127,12 @@ If provided, `.bin` files can be flashed using Espressif Flash Download Tool:
 >
 > **Always comply with local laws and RF regulations** when working with radio frequency equipment.
 
-<div>&nbsp;</div>
-
 ---
 
 ## 📜 License
 
 This project is distributed under the **MIT License**, following the same license terms as the original RF-Clown project.  
 See `LICENSE.txt` for details.
-
-<div>&nbsp;</div>
 
 ---
 
@@ -155,8 +141,5 @@ See `LICENSE.txt` for details.
 Original project by **cifertech**  
 https://github.com/cifertech/RF-Clown  
 
-Forked hardware & firmware variant maintained by **YOUR_NAME**
-
-<div>&nbsp;</div>
-
+Forked hardware & firmware variant maintained by **Cristian Castro (CrissCCL)**
 
